@@ -1,0 +1,4 @@
+interface:
+  display_name: "人文社科问题研析"
+  short_description: "从困惑出发，按需结合学科方法，递进完成阅读、分析、论证、表达、行动与复盘"
+  default_prompt: "使用 $humanities-social-inquiry，从我的困惑出发，带我完成问题澄清、阅读理解、学科分析、判断论证、写作交流、决策行动与经验复盘。"

@@ -1,3 +1,12 @@
+# 文科与社会科学 Skills
+
+| 技能 | 适合的任务 | 入口 |
+|---|---|---|
+| 人文社科问题研析 v1.0 | 从现实困惑出发，递进完成阅读、学科分析、论证、表达、行动与复盘 | [使用说明](humanities-social-inquiry/README.md) · [SKILL.md](humanities-social-inquiry/SKILL.md) |
+| 文科社科论文研究 v1.3 | 文献、田野调查、材料分析、理论解释与论文成稿 | 下方使用说明 · [SKILL.md](humanities-social-research/SKILL.md) |
+
+---
+
 # 文科社科论文研究 Skill v1.3 使用说明
 
 技能名称：`humanities-social-research`  
